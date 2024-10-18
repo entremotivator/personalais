@@ -66,4 +66,4 @@ export function Model(props) {
   )
 }
 
-useGLTF.preload('/explorer.glb')
+useGLTF.preload('/explorer-idle.glb')
